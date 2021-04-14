@@ -3,10 +3,10 @@ main-logger
 ngrx-counter
 ngrx-counter2
 ngrx-data
-ngrx-shopping-list
 ngrxFire
-ngrx-playground-master
 ngrx-shopper
+ngrx-shopping-list
+ngrx-playground-master
 angular-state-management
 
 # compiled output
