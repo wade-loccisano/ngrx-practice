@@ -10,6 +10,7 @@ import { CoursesService } from "./courses.service";
         </ul>
     `
 })
+
 export class CoursesComponent {
     title = 'List of Courses';
     courses: string[];
