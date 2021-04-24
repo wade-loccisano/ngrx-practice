@@ -8,6 +8,7 @@ import { CourseComponent } from './course/course.component';
 import { CoursesService } from './courses.service';
 
 @NgModule({
+  
   declarations: [
     AppComponent,
     CoursesComponent,
